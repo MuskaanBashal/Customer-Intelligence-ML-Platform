@@ -528,7 +528,8 @@ Potential extensions include:
 ## Author
 
 **Muskaan Bashal**
+AI| Data Engineering | Data Analytics | Machine Learning
 
-Master of Information Technology — Data Science & Artificial Intelligence
+Master of Information Technology in Data Science & Artificial Intelligence with Dissertation
 
-Interests: Data Science, Machine Learning, Data Analytics and production-oriented ML systems.
+Interests: Data Engineering | Data Analytics | Artificial Intelligence | Machine Learning
