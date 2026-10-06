@@ -1,0 +1,38 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Environment variables / credentials
+.env
+.env.*
+
+# Raw data
+data/raw/
+data/processed/*.csv
+
+# Generated models
+models/*.pkl
+models/*.joblib
+
+# Keep production model artifacts required by the API
+!models/churn_xgboost_pipeline.joblib
+!models/model_metadata.joblib
+
+#Temporary dependency backup
+requirements-full.txt
+
+# Logs
+*.log
+logs/
